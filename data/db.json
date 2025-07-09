@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Welcome to My Blog",
+      "body": "This is the first post!",
+      "author": "mario"
+    },
+    {
+      "id": "2",
+      "title": "Another Post",
+      "body": "More content here.",
+      "author": "luigi"
+    },
+    {
+      "id": "b8af",
+      "title": "jsfnje",
+      "body": "lkans kjed",
+      "author": "mario"
+    }
+  ]
+}
