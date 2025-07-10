@@ -1,7 +1,7 @@
 import BlogList from './BlogList';
-import blogs from '../data/blogs';
+// import blogs from '../data/blogs';
 
-const Home = () => {
+const Home = ({ blogs }) => {
   return (
     <div className="home">
       <BlogList blogs={blogs} title="All Blogs!" />
